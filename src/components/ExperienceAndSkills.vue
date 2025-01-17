@@ -68,6 +68,17 @@ const Skills =ref([
         name:'figma',
         width:'91%'
     },
+    {
+        id:5,
+        name: 'Vue.js',
+        width: '70%'
+    },
+    {
+        id:6,
+        name: 'Node.js',
+        width: '75%'
+    }
+
 ]);
 
 const Experinces =ref([
